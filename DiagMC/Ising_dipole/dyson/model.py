@@ -373,5 +373,6 @@ class BareFactory:
                     coord=(self.__Map.LatIndex(Origin, sub[IN]), \
                                       self.__Map.LatIndex(coord, sub[OUT]))
                     BareWList.append([vec, coord, sub[IN]])
+                    print  coord, weight 
         return BareWList
 

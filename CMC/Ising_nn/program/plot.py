@@ -247,7 +247,8 @@ if __name__=="__main__":
     import Model as lattice
     import IO
 
-    Beta = 0.25
+    #Beta = 0.008
+    Beta = 0.1
     l=lattice.Lattice("Kagome",[16,16])
 
     Vol = l.NSublat

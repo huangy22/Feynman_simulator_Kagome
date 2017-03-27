@@ -9,7 +9,7 @@ MonteCarlo={
     },
 
 "Job": {
-    "Beta": 0.25,
+    "Beta": 0.1,
     "ExternalField": 0.0,
 
     #2D lattice

@@ -24,7 +24,7 @@ Dyson={
     }
 }
 
-Beta=0.001
+Beta=1.0
 Order=1
 Common={
 "Tau": {"MaxTauBin" : 32, "Beta": Beta},
